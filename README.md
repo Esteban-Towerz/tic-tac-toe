@@ -26,6 +26,6 @@ Tic Tac Toe Game
 
 ## Extra Credit
 
-- [] Let a player add their name before the game starts
+- [X] Let a player add their name before the game starts
 
-- [] Add programming to support playing against the computer. Only one player plays, the other is controlled by your programming.
+- [X] Add programming to support playing against the computer. Only one player plays, the other is controlled by your programming.
