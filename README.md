@@ -3,6 +3,8 @@ Tic Tac Toe Game
 
 <img width="243" alt="screen shot 2017-05-24 at 4 54 38 pm" src="https://cloud.githubusercontent.com/assets/25851867/26427766/d3c14698-40a3-11e7-998f-4592f25d8fe4.png">
 
+Also checkout my Treehouse profile [here](https://teamtreehouse.com/milestake).
+
 ## Requirements
 
 - [X] When the page loads, the startup screen should appear.
